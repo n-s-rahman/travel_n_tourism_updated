@@ -1,0 +1,709 @@
+[
+  {
+    "id": "69478c5e7f6c51bf0cda8cad",
+    "status": "Confirmed",
+    "createdAt": "2025-12-21T05:57:50.616Z",
+    "tripDate": "2026-01-16T18:00:00.000Z",
+    "price": 16500
+  },
+  {
+    "id": "69470b86aa3529320521eb0d",
+    "status": "Cancelled",
+    "createdAt": "2025-12-20T20:48:06.198Z",
+    "tripDate": "2026-01-18T18:00:00.000Z",
+    "price": 2500
+  },
+  {
+    "id": "69470322aa3529320521e85b",
+    "status": "Cancelled",
+    "createdAt": "2025-12-20T20:12:18.703Z",
+    "tripDate": "2026-07-14T18:00:00.000Z",
+    "price": 2300
+  },
+  {
+    "id": "69470134aa3529320521e6f2",
+    "status": "Cancelled",
+    "createdAt": "2025-12-20T20:04:04.484Z",
+    "tripDate": "2026-09-30T18:00:00.000Z",
+    "price": 2800
+  },
+  {
+    "id": "6947008caa3529320521e655",
+    "status": "Cancelled",
+    "createdAt": "2025-12-20T20:01:16.007Z",
+    "tripDate": "2025-12-20T18:00:00.000Z",
+    "price": 2500
+  },
+  {
+    "id": "6946fc2170c7bb66efe20a1c",
+    "status": "Cancelled",
+    "createdAt": "2025-12-20T19:42:25.358Z",
+    "tripDate": "2026-01-18T18:00:00.000Z",
+    "price": 2750
+  },
+  {
+    "id": "6946f84670c7bb66efe20301",
+    "status": "Cancelled",
+    "createdAt": "2025-12-20T19:25:58.643Z",
+    "tripDate": "2026-08-14T18:00:00.000Z",
+    "price": 1320
+  },
+  {
+    "id": "69457c39402ec03dc8cb6aa7",
+    "status": "Confirmed",
+    "createdAt": "2025-12-19T16:24:25.966Z",
+    "tripDate": "2025-12-24T18:00:00.000Z",
+    "price": 2750
+  },
+  {
+    "id": "69456f62925bab74deeb7d58",
+    "status": "Cancelled",
+    "createdAt": "2025-12-19T15:29:38.438Z",
+    "tripDate": "2026-02-27T18:00:00.000Z",
+    "price": 140.8
+  },
+  {
+    "id": "69456e26d2de6dccb1f7fc73",
+    "status": "Confirmed",
+    "createdAt": "2025-12-19T15:24:22.000Z",
+    "tripDate": "2026-01-20T18:00:00.000Z",
+    "price": 140.8
+  },
+  {
+    "id": "69456e1c93d07463c7e29e53",
+    "status": "Cancelled",
+    "createdAt": "2025-12-19T15:24:12.300Z",
+    "tripDate": "2025-12-18T18:00:00.000Z",
+    "price": 1980
+  },
+  {
+    "id": "69456d357f8335155768de24",
+    "status": "Cancelled",
+    "createdAt": "2025-12-19T15:20:21.002Z",
+    "tripDate": "2025-12-18T18:00:00.000Z",
+    "price": 1980
+  },
+  {
+    "id": "69456bc5101f4dac3698e8dc",
+    "status": "Cancelled",
+    "createdAt": "2025-12-19T15:14:13.945Z",
+    "tripDate": "2026-11-14T18:00:00.000Z",
+    "price": 1045
+  },
+  {
+    "id": "69456afc101f4dac3698e842",
+    "status": "Cancelled",
+    "createdAt": "2025-12-19T15:10:52.720Z",
+    "tripDate": "2025-12-19T18:00:00.000Z",
+    "price": 1980
+  },
+  {
+    "id": "69456659d2de6dccb1f7f8f6",
+    "status": "Confirmed",
+    "createdAt": "2025-12-19T14:51:05.548Z",
+    "tripDate": "2026-11-14T18:00:00.000Z",
+    "price": 1045
+  },
+  {
+    "id": "694564bcd2de6dccb1f7f59e",
+    "status": "Confirmed",
+    "createdAt": "2025-12-19T14:44:12.566Z",
+    "tripDate": "2026-07-15T18:00:00.000Z",
+    "price": 1980
+  },
+  {
+    "id": "6945646ad2de6dccb1f7f345",
+    "status": "Confirmed",
+    "createdAt": "2025-12-19T14:42:50.014Z",
+    "tripDate": "2025-12-19T18:00:00.000Z",
+    "price": 1980
+  },
+  {
+    "id": "6945637ed2de6dccb1f7f149",
+    "status": "Confirmed",
+    "createdAt": "2025-12-19T14:38:54.851Z",
+    "tripDate": "2025-12-24T18:00:00.000Z",
+    "price": 2750
+  },
+  {
+    "id": "694520f573defa24fe7cf479",
+    "status": "Cancelled",
+    "createdAt": "2025-12-19T09:55:01.175Z",
+    "tripDate": "2025-12-18T18:00:00.000Z",
+    "price": 2088.9
+  },
+  {
+    "id": "69476ac58896835250ed3185",
+    "status": "Confirmed",
+    "createdAt": "2025-12-19T03:34:29.668Z",
+    "tripDate": "2025-12-21T03:34:29.668Z",
+    "price": 1500
+  },
+  {
+    "id": "6944734702f3687b7f4ca1da",
+    "status": "Cancelled",
+    "createdAt": "2025-12-18T21:33:59.890Z",
+    "tripDate": "2026-08-09T18:00:00.000Z",
+    "price": 1320
+  },
+  {
+    "id": "6944720802f3687b7f4ca08a",
+    "status": "Cancelled",
+    "createdAt": "2025-12-18T21:28:40.024Z",
+    "tripDate": "2026-07-22T18:00:00.000Z",
+    "price": 1980
+  },
+  {
+    "id": "6944711100d2e29bf64e7974",
+    "status": "Cancelled",
+    "createdAt": "2025-12-18T21:24:33.857Z",
+    "tripDate": "2024-09-13T18:00:00.000Z",
+    "price": 3520
+  },
+  {
+    "id": "6944709300d2e29bf64e7891",
+    "status": "Cancelled",
+    "createdAt": "2025-12-18T21:22:27.119Z",
+    "tripDate": "2024-07-28T18:00:00.000Z",
+    "price": 1980
+  },
+  {
+    "id": "69446f33d4784c9c0ab7741d",
+    "status": "Cancelled",
+    "createdAt": "2025-12-18T21:16:35.470Z",
+    "tripDate": "2024-07-28T18:00:00.000Z",
+    "price": 1980
+  },
+  {
+    "id": "69446b7fe324dc2f006f3406",
+    "status": "Cancelled",
+    "createdAt": "2025-12-18T21:00:47.197Z",
+    "tripDate": "2024-08-19T18:00:00.000Z",
+    "price": 1320
+  },
+  {
+    "id": "69446ae4a5969651a422d808",
+    "status": "Cancelled",
+    "createdAt": "2025-12-18T20:58:12.915Z",
+    "tripDate": "2024-08-19T18:00:00.000Z",
+    "price": 1320
+  },
+  {
+    "id": "69446a8da5969651a422d783",
+    "status": "Cancelled",
+    "createdAt": "2025-12-18T20:56:45.983Z",
+    "tripDate": "2024-09-13T18:00:00.000Z",
+    "price": 3520
+  },
+  {
+    "id": "69446991317cdee4746a9130",
+    "status": "Confirmed",
+    "createdAt": "2025-12-18T20:52:33.768Z",
+    "tripDate": "2024-07-28T18:00:00.000Z",
+    "price": 1980
+  },
+  {
+    "id": "6944685198c71cf044d58b50",
+    "status": "Confirmed",
+    "createdAt": "2025-12-18T20:47:13.525Z",
+    "tripDate": "2024-08-19T18:00:00.000Z",
+    "price": 1320
+  },
+  {
+    "id": "6946ff9589032097a2fa9041",
+    "status": "Confirmed",
+    "createdAt": "2025-12-18T19:57:09.710Z",
+    "tripDate": "2025-12-20T19:57:09.710Z",
+    "price": 1500
+  },
+  {
+    "id": "6946f1f7ca58e8a0c10693a1",
+    "status": "Confirmed",
+    "createdAt": "2025-12-18T18:59:03.243Z",
+    "tripDate": "2025-12-20T18:59:03.243Z",
+    "price": 1500
+  },
+  {
+    "id": "6946eafd7320d49b427b7e50",
+    "status": "Confirmed",
+    "createdAt": "2025-12-18T18:29:17.150Z",
+    "tripDate": "2025-12-20T18:29:17.150Z",
+    "price": 1500
+  },
+  {
+    "id": "694441ea288d0e25d5b1c84e",
+    "status": "Confirmed",
+    "createdAt": "2025-12-18T18:03:22.429Z",
+    "tripDate": "2024-07-23T18:00:00.000Z",
+    "price": 1980
+  },
+  {
+    "id": "69443d1f67277390171beeec",
+    "status": "Confirmed",
+    "createdAt": "2025-12-18T17:42:55.016Z",
+    "tripDate": "2024-07-28T18:00:00.000Z",
+    "price": 2480
+  },
+  {
+    "id": "694436e0d2de6dccb1f7f006",
+    "status": "Confirmed",
+    "createdAt": "2025-12-18T17:16:16.374Z",
+    "tripDate": "2026-08-24T18:00:00.000Z",
+    "price": 60500
+  },
+  {
+    "id": "69457b7e9998779a7350af20",
+    "status": "Confirmed",
+    "createdAt": "2025-12-17T16:21:18.476Z",
+    "tripDate": "2025-12-19T16:21:18.476Z",
+    "price": 1500
+  },
+  {
+    "id": "6945708fc61f71ae31833423",
+    "status": "Confirmed",
+    "createdAt": "2025-12-17T15:34:39.976Z",
+    "tripDate": "2025-12-19T15:34:39.976Z",
+    "price": 1500
+  },
+  {
+    "id": "69453221164b781f76f8a7d9",
+    "status": "Confirmed",
+    "createdAt": "2025-12-17T11:08:17.674Z",
+    "tripDate": "2025-12-19T11:08:17.674Z",
+    "price": 1500
+  },
+  {
+    "id": "694527d97a1fb849403ab5c8",
+    "status": "Confirmed",
+    "createdAt": "2025-12-17T10:24:25.451Z",
+    "tripDate": "2025-12-19T10:24:25.451Z",
+    "price": 1500
+  },
+  {
+    "id": "6941a522b4dc46f896afb956",
+    "status": "Confirmed",
+    "createdAt": "2025-12-16T18:29:54.025Z",
+    "tripDate": "2026-03-16T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "69418f79f230347a5391e74b",
+    "status": "Confirmed",
+    "createdAt": "2025-12-16T16:57:29.564Z",
+    "tripDate": "2026-05-19T18:00:00.000Z",
+    "price": 108900
+  },
+  {
+    "id": "69476ac58896835250ed3182",
+    "status": "Confirmed",
+    "createdAt": "2025-12-16T03:34:29.667Z",
+    "tripDate": "2025-12-21T03:34:29.667Z",
+    "price": 3000
+  },
+  {
+    "id": "6946ff9589032097a2fa903e",
+    "status": "Confirmed",
+    "createdAt": "2025-12-15T19:57:09.710Z",
+    "tripDate": "2025-12-20T19:57:09.710Z",
+    "price": 3000
+  },
+  {
+    "id": "6946f1f7ca58e8a0c106939e",
+    "status": "Confirmed",
+    "createdAt": "2025-12-15T18:59:03.243Z",
+    "tripDate": "2025-12-20T18:59:03.243Z",
+    "price": 3000
+  },
+  {
+    "id": "6946eafd7320d49b427b7e4d",
+    "status": "Confirmed",
+    "createdAt": "2025-12-15T18:29:17.150Z",
+    "tripDate": "2025-12-20T18:29:17.150Z",
+    "price": 3000
+  },
+  {
+    "id": "6940335e21e818343674242e",
+    "status": "Cancelled",
+    "createdAt": "2025-12-15T16:12:14.863Z",
+    "tripDate": "2026-03-24T18:00:00.000Z",
+    "price": 1650
+  },
+  {
+    "id": "6940318e21e81834367423e5",
+    "status": "Confirmed",
+    "createdAt": "2025-12-15T16:04:30.381Z",
+    "tripDate": "2026-03-18T18:00:00.000Z",
+    "price": 2198.9
+  },
+  {
+    "id": "69402f6c21e818343674239c",
+    "status": "Cancelled",
+    "createdAt": "2025-12-15T15:55:24.717Z",
+    "tripDate": "2026-03-24T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "69402f2e21e8183436742353",
+    "status": "Confirmed",
+    "createdAt": "2025-12-15T15:54:22.070Z",
+    "tripDate": "2026-03-26T18:00:00.000Z",
+    "price": 2198.9
+  },
+  {
+    "id": "69402ef013fd5795623d7ee9",
+    "status": "Confirmed",
+    "createdAt": "2025-12-15T15:53:20.583Z",
+    "tripDate": "2026-03-25T18:00:00.000Z",
+    "price": 2198.9
+  },
+  {
+    "id": "69402e2c13fd5795623d7e6e",
+    "status": "Cancelled",
+    "createdAt": "2025-12-15T15:50:04.430Z",
+    "tripDate": "2026-03-25T18:00:00.000Z",
+    "price": 2198.9
+  },
+  {
+    "id": "69402d36eea7692b6f2b447a",
+    "status": "Cancelled",
+    "createdAt": "2025-12-15T15:45:58.580Z",
+    "tripDate": "2026-03-25T18:00:00.000Z",
+    "price": 2198.9
+  },
+  {
+    "id": "69402c75eea7692b6f2b445d",
+    "status": "Confirmed",
+    "createdAt": "2025-12-15T15:42:45.035Z",
+    "tripDate": "2026-03-18T18:00:00.000Z",
+    "price": 2198.9
+  },
+  {
+    "id": "69402be3eea7692b6f2b4444",
+    "status": "Pending",
+    "createdAt": "2025-12-15T15:40:19.541Z",
+    "tripDate": "2026-03-16T18:00:00.000Z",
+    "price": 2198.9
+  },
+  {
+    "id": "69402b1deea7692b6f2b4399",
+    "status": "Pending",
+    "createdAt": "2025-12-15T15:37:01.290Z",
+    "tripDate": "2026-03-11T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "69402720c1b043231d46e247",
+    "status": "Confirmed",
+    "createdAt": "2025-12-15T15:20:00.937Z",
+    "tripDate": "2026-03-11T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "694022c94b9b50439ed1d1da",
+    "status": "Cancelled",
+    "createdAt": "2025-12-15T15:01:29.773Z",
+    "tripDate": "2026-03-18T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "694022864b9b50439ed1d191",
+    "status": "Confirmed",
+    "createdAt": "2025-12-15T15:00:22.073Z",
+    "tripDate": "2026-03-25T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "6940162cf9cd9002286993ec",
+    "status": "Cancelled",
+    "createdAt": "2025-12-15T14:07:40.281Z",
+    "tripDate": "2026-03-18T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "6940157c92167993b5b922de",
+    "status": "Pending",
+    "createdAt": "2025-12-15T14:04:44.724Z",
+    "tripDate": "2026-03-18T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "69401501b4108dd1e0111566",
+    "status": "Pending",
+    "createdAt": "2025-12-15T14:02:41.838Z",
+    "tripDate": "2026-03-11T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "6940116ea4b4ffc9b05b2206",
+    "status": "Pending",
+    "createdAt": "2025-12-15T13:47:26.735Z",
+    "tripDate": "2026-03-09T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "693eede9d213048661bcaaec",
+    "status": "Pending",
+    "createdAt": "2025-12-14T17:03:37.728Z",
+    "tripDate": "2026-03-18T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "693eed4dd213048661bcaa7a",
+    "status": "Pending",
+    "createdAt": "2025-12-14T17:01:01.138Z",
+    "tripDate": "2026-03-19T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "693eed1dd213048661bcaa4f",
+    "status": "Confirmed",
+    "createdAt": "2025-12-14T17:00:13.689Z",
+    "tripDate": "2026-03-18T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "693eecd7d213048661bcaa0a",
+    "status": "Pending",
+    "createdAt": "2025-12-14T16:59:03.564Z",
+    "tripDate": "2026-03-18T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "693eecbbd213048661bca9c5",
+    "status": "Pending",
+    "createdAt": "2025-12-14T16:58:35.262Z",
+    "tripDate": "2026-03-18T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "693eeba7c3cd3a2c6f7bdf2d",
+    "status": "Pending",
+    "createdAt": "2025-12-14T16:53:59.455Z",
+    "tripDate": "2026-03-18T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "69457b7e9998779a7350af1d",
+    "status": "Confirmed",
+    "createdAt": "2025-12-14T16:21:18.476Z",
+    "tripDate": "2025-12-19T16:21:18.476Z",
+    "price": 3000
+  },
+  {
+    "id": "693edd176cc00617a8faafbb",
+    "status": "Cancelled",
+    "createdAt": "2025-12-14T15:51:51.931Z",
+    "tripDate": "2026-03-18T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "6945708fc61f71ae31833420",
+    "status": "Confirmed",
+    "createdAt": "2025-12-14T15:34:39.976Z",
+    "tripDate": "2025-12-19T15:34:39.976Z",
+    "price": 3000
+  },
+  {
+    "id": "693ed497df06513d03f4292e",
+    "status": "Pending",
+    "createdAt": "2025-12-14T15:15:35.064Z",
+    "tripDate": "2026-03-18T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "693ed372df06513d03f4289f",
+    "status": "Pending",
+    "createdAt": "2025-12-14T15:10:42.923Z",
+    "tripDate": "2026-03-17T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "69453221164b781f76f8a7d6",
+    "status": "Confirmed",
+    "createdAt": "2025-12-14T11:08:17.673Z",
+    "tripDate": "2025-12-19T11:08:17.673Z",
+    "price": 3000
+  },
+  {
+    "id": "694527d97a1fb849403ab5c5",
+    "status": "Confirmed",
+    "createdAt": "2025-12-14T10:24:25.451Z",
+    "tripDate": "2025-12-19T10:24:25.451Z",
+    "price": 3000
+  },
+  {
+    "id": "693e86f4d47f499fb6d76c58",
+    "status": "Cancelled",
+    "createdAt": "2025-12-14T09:44:20.764Z",
+    "tripDate": "2026-03-25T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "693e6b27d47f499fb6d76b55",
+    "status": "Cancelled",
+    "createdAt": "2025-12-14T07:45:43.039Z",
+    "tripDate": "2026-03-09T18:00:00.000Z",
+    "price": 1098.9
+  },
+  {
+    "id": "693e66d2d47f499fb6d769eb",
+    "status": "Cancelled",
+    "createdAt": "2025-12-14T07:27:14.284Z",
+    "tripDate": "2026-02-28T18:00:00.000Z",
+    "price": 1650
+  },
+  {
+    "id": "693c0dc9abb4efc7602151ae",
+    "status": "Cancelled",
+    "createdAt": "2025-12-12T12:42:49.521Z",
+    "tripDate": "2024-08-13T18:00:00.000Z",
+    "price": 1320
+  },
+  {
+    "id": "693bebdbc0710ababd8fd828",
+    "status": "Cancelled",
+    "createdAt": "2025-12-12T10:18:03.742Z",
+    "tripDate": "2024-08-13T18:00:00.000Z",
+    "price": 1320
+  },
+  {
+    "id": "693bdfb3c0710ababd8fd449",
+    "status": "Pending",
+    "createdAt": "2025-12-12T09:26:11.345Z",
+    "tripDate": "2024-11-22T18:00:00.000Z",
+    "price": 1045
+  },
+  {
+    "id": "693bd123c0710ababd8fd3cd",
+    "status": "Pending",
+    "createdAt": "2025-12-12T08:24:03.415Z",
+    "tripDate": "2024-09-13T18:00:00.000Z",
+    "price": 6720
+  },
+  {
+    "id": "693bc6f6e521f33dc74e8c86",
+    "status": "Cancelled",
+    "createdAt": "2025-12-12T07:40:38.073Z",
+    "tripDate": "2024-08-13T18:00:00.000Z",
+    "price": 1320
+  },
+  {
+    "id": "693bc6bde521f33dc74e8c5b",
+    "status": "Cancelled",
+    "createdAt": "2025-12-12T07:39:41.902Z",
+    "tripDate": "2024-08-13T18:00:00.000Z",
+    "price": 1320
+  },
+  {
+    "id": "69476ac58896835250ed3187",
+    "status": "Confirmed",
+    "createdAt": "2025-12-11T03:34:29.668Z",
+    "tripDate": "2025-12-21T03:34:29.668Z",
+    "price": 5000
+  },
+  {
+    "id": "6946ff9589032097a2fa9043",
+    "status": "Confirmed",
+    "createdAt": "2025-12-10T19:57:09.710Z",
+    "tripDate": "2025-12-20T19:57:09.710Z",
+    "price": 5000
+  },
+  {
+    "id": "6946f1f7ca58e8a0c10693a3",
+    "status": "Confirmed",
+    "createdAt": "2025-12-10T18:59:03.243Z",
+    "tripDate": "2025-12-20T18:59:03.243Z",
+    "price": 5000
+  },
+  {
+    "id": "6946eafd7320d49b427b7e52",
+    "status": "Confirmed",
+    "createdAt": "2025-12-10T18:29:17.150Z",
+    "tripDate": "2025-12-20T18:29:17.150Z",
+    "price": 5000
+  },
+  {
+    "id": "69457b7e9998779a7350af22",
+    "status": "Confirmed",
+    "createdAt": "2025-12-09T16:21:18.476Z",
+    "tripDate": "2025-12-19T16:21:18.476Z",
+    "price": 5000
+  },
+  {
+    "id": "6945708fc61f71ae31833425",
+    "status": "Confirmed",
+    "createdAt": "2025-12-09T15:34:39.976Z",
+    "tripDate": "2025-12-19T15:34:39.976Z",
+    "price": 5000
+  },
+  {
+    "id": "69453221164b781f76f8a7db",
+    "status": "Cancelled",
+    "createdAt": "2025-12-09T11:08:17.674Z",
+    "tripDate": "2025-12-19T11:08:17.674Z",
+    "price": 5000
+  },
+  {
+    "id": "694527d97a1fb849403ab5ca",
+    "status": "Confirmed",
+    "createdAt": "2025-12-09T10:24:25.451Z",
+    "tripDate": "2025-12-19T10:24:25.451Z",
+    "price": 5000
+  },
+  {
+    "id": "69476ac58896835250ed318a",
+    "status": "Completed",
+    "createdAt": "2025-12-06T03:34:29.668Z",
+    "tripDate": "2025-12-21T03:34:29.668Z",
+    "price": 7500
+  },
+  {
+    "id": "6946ff9589032097a2fa9046",
+    "status": "Completed",
+    "createdAt": "2025-12-05T19:57:09.710Z",
+    "tripDate": "2025-12-20T19:57:09.710Z",
+    "price": 7500
+  },
+  {
+    "id": "6946f1f7ca58e8a0c10693a6",
+    "status": "Completed",
+    "createdAt": "2025-12-05T18:59:03.243Z",
+    "tripDate": "2025-12-20T18:59:03.243Z",
+    "price": 7500
+  },
+  {
+    "id": "6946eafd7320d49b427b7e55",
+    "status": "Completed",
+    "createdAt": "2025-12-05T18:29:17.150Z",
+    "tripDate": "2025-12-20T18:29:17.150Z",
+    "price": 7500
+  },
+  {
+    "id": "69457b7e9998779a7350af25",
+    "status": "Completed",
+    "createdAt": "2025-12-04T16:21:18.476Z",
+    "tripDate": "2025-12-19T16:21:18.476Z",
+    "price": 7500
+  },
+  {
+    "id": "6945708fc61f71ae31833428",
+    "status": "Completed",
+    "createdAt": "2025-12-04T15:34:39.976Z",
+    "tripDate": "2025-12-19T15:34:39.976Z",
+    "price": 7500
+  },
+  {
+    "id": "69453221164b781f76f8a7de",
+    "status": "Completed",
+    "createdAt": "2025-12-04T11:08:17.674Z",
+    "tripDate": "2025-12-19T11:08:17.674Z",
+    "price": 7500
+  },
+  {
+    "id": "694527d97a1fb849403ab5cd",
+    "status": "Completed",
+    "createdAt": "2025-12-04T10:24:25.451Z",
+    "tripDate": "2025-12-19T10:24:25.451Z",
+    "price": 7500
+  }
+]
